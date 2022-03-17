@@ -1,0 +1,1244 @@
+..F..
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='Nk2401 : site_id')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'Nk2401'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Nk2401'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='Nk2401 : cluster_count')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'Nk2401'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Nk2401'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='Nk2401 : cluster_full_address')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'Nk2401'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Nk2401'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='Nk2401 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'Nk2401'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Nk2401'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='Nk2401 : total_cases')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'Nk2401'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Nk2401'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='Nk2401 : total_complaint_sites')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'Nk2401'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Nk2401'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='Nk2401 : latitude')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'Nk2401'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Nk2401'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='Nk2401 : longitude')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'Nk2401'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Nk2401'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='QA50077_KGTELIAN_U9 : site_id')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 845, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 835, in _baseAssertEqual
+    if not first == second:
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 1535, in __nonzero__
+    raise ValueError(
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='QA50077_KGTELIAN_U9 : cluster_count')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 845, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 835, in _baseAssertEqual
+    if not first == second:
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 1535, in __nonzero__
+    raise ValueError(
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='QA50077_KGTELIAN_U9 : cluster_full_address')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 845, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 835, in _baseAssertEqual
+    if not first == second:
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 1535, in __nonzero__
+    raise ValueError(
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='QA50077_KGTELIAN_U9 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 845, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 835, in _baseAssertEqual
+    if not first == second:
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 1535, in __nonzero__
+    raise ValueError(
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='QA50077_KGTELIAN_U9 : total_cases')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 845, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 835, in _baseAssertEqual
+    if not first == second:
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 1535, in __nonzero__
+    raise ValueError(
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='QA50077_KGTELIAN_U9 : total_complaint_sites')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 845, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 835, in _baseAssertEqual
+    if not first == second:
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 1535, in __nonzero__
+    raise ValueError(
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='QA50077_KGTELIAN_U9 : latitude')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 845, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 835, in _baseAssertEqual
+    if not first == second:
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 1535, in __nonzero__
+    raise ValueError(
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='QA50077_KGTELIAN_U9 : longitude')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 845, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\unittest\case.py", line 835, in _baseAssertEqual
+    if not first == second:
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 1535, in __nonzero__
+    raise ValueError(
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='cb4808 : site_id')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'cb4808'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'cb4808'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='cb4808 : cluster_count')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'cb4808'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'cb4808'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='cb4808 : cluster_full_address')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'cb4808'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'cb4808'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='cb4808 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'cb4808'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'cb4808'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='cb4808 : total_cases')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'cb4808'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'cb4808'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='cb4808 : total_complaint_sites')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'cb4808'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'cb4808'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='cb4808 : latitude')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'cb4808'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'cb4808'
+
+======================================================================
+ERROR: testSite (__main__.TestSiteOverall) (item='cb4808 : longitude')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3621, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas\_libs\index.pyx", line 136, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 160, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 195, in pandas._libs.index.IndexEngine._get_loc_duplicates
+KeyError: 'cb4808'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 3505, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\YS\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 3623, in get_loc
+    raise KeyError(key) from err
+KeyError: 'cb4808'
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Air Hangat, Kedah : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 16 != 15
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Alur Merah, Kedah : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 84 != 83
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Api-api, Johor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 29 != 28
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Bandar Baru Sungai Buloh, Selangor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 70 != 69
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Bandar Kinrara, Selangor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 102 != 101
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Bandar Sg Petani, Kedah : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 130 != 129
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Batu Pahat, Johor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 83 != 82
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Batu Tiga, Selangor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 169 != 168
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Beranang, Selangor : total_complaint_sites')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 14 != 13
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Bukit Beruntung, Selangor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 106 != 105
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Bukit Pinang, Kedah : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 39 != 37
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Bukit Pinang, Kedah : total_complaint_sites')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 9 != 8
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Cheras, Selangor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 129 != 128
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Dengkil, Selangor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 165 != 164
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Kangar, Perlis : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 53 != 52
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Kapar, Selangor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 36 != 35
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Karak, Pahang : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 11 != 10
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Kelana Jaya, Selangor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 90 != 89
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Kelemak, Melaka : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 48 != 47
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Kemumin, Kelantan : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 39 != 38
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Kulai, Johor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 182 != 181
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Kurong Anai, Perlis : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 35 != 34
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Mantin, Negeri Sembilan : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 61 != 60
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Matu, Sarawak : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 7 != 6
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Mengatal, Sabah : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 63 != 62
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Mersing, Johor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 21 != 19
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Panji, Kelantan : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 65 != 64
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Pasir Gudang, Johor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 115 != 114
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Pelabuhan Klang, Selangor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 161 != 160
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Peringat, Kelantan : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 76 != 74
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Pinang Tunggal, Kedah : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 112 != 111
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Pontian Besar, Johor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 47 != 46
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Putrajaya_2, Putrajaya : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 75 != 74
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Saujana Putra, Selangor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 181 != 180
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Selayang, Selangor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 182 != 181
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Sentul, Kuala Lumpur : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 197 != 196
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Setapak, Selangor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 110 != 109
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Sibu, Sarawak : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 112 != 111
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Simpang Kiri, Johor : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 12 != 11
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Sungai Sepadak, Sarawak : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 5 != 4
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Tanjong Minyak, Melaka : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 83 != 82
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Tawau Town, Sabah : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 101 != 100
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Temangan, Kelantan : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 16 != 14
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Tembeling, Pahang : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 3 != 2
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Titiwangsa, Kuala Lumpur : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 170 != 169
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Tuk Jamal, Terengganu : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 52 != 51
+
+======================================================================
+FAIL: testCluster (__main__.TestClusterOverall) (item='Ukay Perdana, Kuala Lumpur : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 73, in testCluster
+    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])
+AssertionError: 91 != 90
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='BB1_Q118B_Q00250OD_CB_BT11BTU : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 2 != 1
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CB0220 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 13 != 12
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CB0779 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 6 != 5
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CB0797 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 14 != 13
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CB0801 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 10 != 9
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CB1348 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 44 != 43
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CB1407 : latitude')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: '3.321197\xa0\xa0\xa0 ' != '3.321197Â\xa0Â\xa0Â\xa0 '
+- 3.321197    
++ 3.321197Â Â Â  
+?         + + +
+
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CB1461 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 15 != 14
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CB1587 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 11 != 10
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CB3367 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 5 != 4
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CB4005 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 14 != 13
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CB4387 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 25 != 24
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CB4808 : cluster_count')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 26 != 28
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CB4808 : total_cases')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 26 != 28
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CN4622 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 28 != 27
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CW0936 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 11 != 10
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CW3404 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 14 != 13
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='CW7915 : latitude')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: '3.128807 \xa0' != '3.128807 Â\xa0'
+- 3.128807  
++ 3.128807 Â 
+?          +
+
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='EA50438_KG_BATU_JONG_U9 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 2 != 1
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='EC1549 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 7 != 6
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='ED0051 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 14 != 13
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='ED0592 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 9 != 8
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='ED2625 : longitude')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: '102.304786' != '102.30478600000001'
+- 102.304786
++ 102.30478600000001
+
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='ED6976 : latitude')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: '6.20247\xa0' != '6.20247Â\xa0'
+- 6.20247 
++ 6.20247Â 
+?        +
+
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='ET0516 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 8 != 7
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='KDLLK4095 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 9 != 8
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='KNLMG3076 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 6 != 5
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='NK1537 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 15 != 14
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='NK2392 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 8 != 7
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='NK2401 : cluster_count')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 6 != 7
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='NK2401 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 5 != 6
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='NK2401 : total_cases')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 6 != 7
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='NK2495 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 15 != 13
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='NK3630 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 14 != 13
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='NK4485 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 11 != 10
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='PLLXR4085 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 13 != 12
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='SALKK6004 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 15 != 14
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='SALTW6043 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 17 != 16
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='SJ0273 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 4 != 3
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='SJ2172 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 44 != 43
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='SJ3629 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 14 != 13
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='SJ4042 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 7 != 5
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='SJ4508 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 4 != 3
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='SJ4930 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 4 != 3
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='SJ6304 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 11 != 10
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='SM0681 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 25 != 24
+
+======================================================================
+FAIL: testSite (__main__.TestSiteOverall) (item='SM4044 : total_customer')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 125, in testSite
+    self.assertEqual(self.site_data_T[site].loc[index], self.site_test_T[site].loc[index])
+AssertionError: 16 != 15
+
+======================================================================
+FAIL: testMaxCases (__main__.TestCasesOverall)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\YS\djangoproject\thd\testThdAPI.py", line 189, in testMaxCases
+    self.assertEqual(max_data, max_test)
+AssertionError: 357 != 381
+
+----------------------------------------------------------------------
+Ran 7 tests in 134.206s
+
+FAILED (failures=95, errors=24)
