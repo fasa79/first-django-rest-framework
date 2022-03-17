@@ -1,0 +1,707 @@
+2022-03-16 22:58:07,908 - scope.name - ERROR - FAIL CLUSTER:
+2022-03-16 22:58:07,910 - scope.name - ERROR - Air Hangat
+2022-03-16 22:58:07,910 - scope.name - ERROR - Air Hitam Town
+2022-03-16 22:58:07,912 - scope.name - ERROR - Air Putih
+2022-03-16 22:58:07,913 - scope.name - ERROR - Alur Merah
+2022-03-16 22:58:07,914 - scope.name - ERROR - Ampang
+2022-03-16 22:58:07,916 - scope.name - ERROR - Ampang Jaya
+2022-03-16 22:58:07,917 - scope.name - ERROR - Ampang Pecah
+2022-03-16 22:58:07,919 - scope.name - ERROR - Ampangan
+2022-03-16 22:58:07,920 - scope.name - ERROR - Api-api
+2022-03-16 22:58:07,921 - scope.name - ERROR - Arau
+2022-03-16 22:58:07,926 - scope.name - ERROR - Ayer Panas
+2022-03-16 22:58:07,927 - scope.name - ERROR - Ayer Tawar
+2022-03-16 22:58:07,929 - scope.name - ERROR - Bagan Serai
+2022-03-16 22:58:07,931 - scope.name - ERROR - Bakai
+2022-03-16 22:58:07,933 - scope.name - ERROR - Balakong
+2022-03-16 22:58:07,934 - scope.name - ERROR - Baling
+2022-03-16 22:58:07,935 - scope.name - ERROR - Balok-Beserah
+2022-03-16 22:58:07,936 - scope.name - ERROR - Bandar Baru Sri Petaling
+2022-03-16 22:58:07,938 - scope.name - ERROR - Bandar Baru Sungai Buloh
+2022-03-16 22:58:07,939 - scope.name - ERROR - Bandar Bukit Raja
+2022-03-16 22:58:07,940 - scope.name - ERROR - Bandar Indera Mahkota
+2022-03-16 22:58:07,941 - scope.name - ERROR - Bandar Johor Bahru
+2022-03-16 22:58:07,942 - scope.name - ERROR - Bandar Kajang
+2022-03-16 22:58:07,944 - scope.name - ERROR - Bandar Kemaman
+2022-03-16 22:58:07,945 - scope.name - ERROR - Bandar Kinrara
+2022-03-16 22:58:07,946 - scope.name - ERROR - Bandar Klang
+2022-03-16 22:58:07,947 - scope.name - ERROR - Bandar Melaka
+2022-03-16 22:58:07,949 - scope.name - ERROR - Bandar Muadzam Shah
+2022-03-16 22:58:07,951 - scope.name - ERROR - Bandar Petaling Jaya
+2022-03-16 22:58:07,952 - scope.name - ERROR - Bandar Putra
+2022-03-16 22:58:07,954 - scope.name - ERROR - Bandar Seremban
+2022-03-16 22:58:07,955 - scope.name - ERROR - Bandar Seri Putra Bangi
+2022-03-16 22:58:07,956 - scope.name - ERROR - Bandar Sg Petani
+2022-03-16 22:58:07,959 - scope.name - ERROR - Bangi
+2022-03-16 22:58:07,960 - scope.name - ERROR - Bangsar South
+2022-03-16 22:58:07,961 - scope.name - ERROR - Batang Berjuntai
+2022-03-16 22:58:07,964 - scope.name - ERROR - Batu
+2022-03-16 22:58:07,965 - scope.name - ERROR - Batu Berendam
+2022-03-16 22:58:07,967 - scope.name - ERROR - Batu Caves
+2022-03-16 22:58:07,969 - scope.name - ERROR - Batu Kawa
+2022-03-16 22:58:07,971 - scope.name - ERROR - Batu Kitang
+2022-03-16 22:58:07,972 - scope.name - ERROR - Batu Manikar
+2022-03-16 22:58:07,973 - scope.name - ERROR - Batu Maung
+2022-03-16 22:58:07,974 - scope.name - ERROR - Batu Pahat
+2022-03-16 22:58:07,975 - scope.name - ERROR - Batu Rakit
+2022-03-16 22:58:07,977 - scope.name - ERROR - Batu Tiga
+2022-03-16 22:58:07,978 - scope.name - ERROR - Bau
+2022-03-16 22:58:07,980 - scope.name - ERROR - Bayan Lepas
+2022-03-16 22:58:07,981 - scope.name - ERROR - Beaufort
+2022-03-16 22:58:07,982 - scope.name - ERROR - Belanja
+2022-03-16 22:58:07,986 - scope.name - ERROR - Beranang
+2022-03-16 22:58:07,987 - scope.name - ERROR - Beratok
+2022-03-16 22:58:07,989 - scope.name - ERROR - Bidor
+2022-03-16 22:58:07,991 - scope.name - ERROR - Bintulu Town
+2022-03-16 22:58:07,993 - scope.name - ERROR - Brickfield Maluri
+2022-03-16 22:58:07,994 - scope.name - ERROR - Bukit Awang
+2022-03-16 22:58:07,997 - scope.name - ERROR - Bukit Baru
+2022-03-16 22:58:07,998 - scope.name - ERROR - Bukit Beruntung
+2022-03-16 22:58:08,000 - scope.name - ERROR - Bukit Bintang
+2022-03-16 22:58:08,001 - scope.name - ERROR - Bukit Gaung
+2022-03-16 22:58:08,004 - scope.name - ERROR - Bukit Meriam
+2022-03-16 22:58:08,006 - scope.name - ERROR - Bukit Mertajam
+2022-03-16 22:58:08,008 - scope.name - ERROR - Bukit Pinang
+2022-03-16 22:58:08,009 - scope.name - ERROR - Bukit Raja
+2022-03-16 22:58:08,010 - scope.name - ERROR - Bukit Saga
+2022-03-16 22:58:08,012 - scope.name - ERROR - Bukit Tadun
+2022-03-16 22:58:08,013 - scope.name - ERROR - Bukit Tengah
+2022-03-16 22:58:08,014 - scope.name - ERROR - Bukit Tinggi Klang
+2022-03-16 22:58:08,015 - scope.name - ERROR - Bunut Susu
+2022-03-16 22:58:08,017 - scope.name - ERROR - Cabang Tiga
+2022-03-16 22:58:08,020 - scope.name - ERROR - Chengkau
+2022-03-16 22:58:08,021 - scope.name - ERROR - Chepor
+2022-03-16 22:58:08,022 - scope.name - ERROR - Cheras
+2022-03-16 22:58:08,024 - scope.name - ERROR - Cheras Baru
+2022-03-16 22:58:08,025 - scope.name - ERROR - Cherating
+2022-03-16 22:58:08,027 - scope.name - ERROR - Chini
+2022-03-16 22:58:08,028 - scope.name - ERROR - Cukai
+2022-03-16 22:58:08,029 - scope.name - ERROR - Cyberjaya
+2022-03-16 22:58:08,031 - scope.name - ERROR - Damansara Jaya
+2022-03-16 22:58:08,033 - scope.name - ERROR - Danga Bay
+2022-03-16 22:58:08,035 - scope.name - ERROR - Dataran Sunway
+2022-03-16 22:58:08,036 - scope.name - ERROR - Dengkil
+2022-03-16 22:58:08,038 - scope.name - ERROR - Desa Melawati
+2022-03-16 22:58:08,039 - scope.name - ERROR - Desa Petaling Sg Besi
+2022-03-16 22:58:08,040 - scope.name - ERROR - Desa Tebrau
+2022-03-16 22:58:08,042 - scope.name - ERROR - Desaru
+2022-03-16 22:58:08,050 - scope.name - ERROR - Felda Pasak
+2022-03-16 22:58:08,053 - scope.name - ERROR - Gambang
+2022-03-16 22:58:08,055 - scope.name - ERROR - Gelang Patah
+2022-03-16 22:58:08,056 - scope.name - ERROR - Gemas
+2022-03-16 22:58:08,058 - scope.name - ERROR - Gemereh
+2022-03-16 22:58:08,060 - scope.name - ERROR - Georgetown
+2022-03-16 22:58:08,062 - scope.name - ERROR - Grisek
+2022-03-16 22:58:08,065 - scope.name - ERROR - Gum Gum
+2022-03-16 22:58:08,067 - scope.name - ERROR - Gurun
+2022-03-16 22:58:08,068 - scope.name - ERROR - Hujung Permatang
+2022-03-16 22:58:08,070 - scope.name - ERROR - Hulu Bernam
+2022-03-16 22:58:08,074 - scope.name - ERROR - Hulu Telemung
+2022-03-16 22:58:08,075 - scope.name - ERROR - Hulu Yam
+2022-03-16 22:58:08,077 - scope.name - ERROR - Igan
+2022-03-16 22:58:08,078 - scope.name - ERROR - Ipoh
+2022-03-16 22:58:08,081 - scope.name - ERROR - Jalan Kebun
+2022-03-16 22:58:08,082 - scope.name - ERROR - Jalan Klang Lama
+2022-03-16 22:58:08,084 - scope.name - ERROR - Jaya Gading
+2022-03-16 22:58:08,086 - scope.name - ERROR - Jeli
+2022-03-16 22:58:08,087 - scope.name - ERROR - Jelutong
+2022-03-16 22:58:08,092 - scope.name - ERROR - Jeram
+2022-03-16 22:58:08,095 - scope.name - ERROR - Jimah
+2022-03-16 22:58:08,096 - scope.name - ERROR - Jinjang
+2022-03-16 22:58:08,099 - scope.name - ERROR - Jitra
+2022-03-16 22:58:08,100 - scope.name - ERROR - Johol
+2022-03-16 22:58:08,101 - scope.name - ERROR - Johor Jaya
+2022-03-16 22:58:08,104 - scope.name - ERROR - Juru
+2022-03-16 22:58:08,108 - scope.name - ERROR - Kadok
+2022-03-16 22:58:08,110 - scope.name - ERROR - Kampar
+2022-03-16 22:58:08,113 - scope.name - ERROR - Kampung Dato Harun
+2022-03-16 22:58:08,115 - scope.name - ERROR - Kampung Mandahan
+2022-03-16 22:58:08,118 - scope.name - ERROR - Kampung Selimbangun
+2022-03-16 22:58:08,119 - scope.name - ERROR - Kampung Telaga Air
+2022-03-16 22:58:08,121 - scope.name - ERROR - Kamunting
+2022-03-16 22:58:08,122 - scope.name - ERROR - Kanarut
+2022-03-16 22:58:08,124 - scope.name - ERROR - Kangar
+2022-03-16 22:58:08,127 - scope.name - ERROR - Kapar
+2022-03-16 22:58:08,129 - scope.name - ERROR - Karak
+2022-03-16 22:58:08,131 - scope.name - ERROR - Karak Ulu Yam
+2022-03-16 22:58:08,132 - scope.name - ERROR - Kayau
+2022-03-16 22:58:08,134 - scope.name - ERROR - Kelana Jaya
+2022-03-16 22:58:08,135 - scope.name - ERROR - Kelanang
+2022-03-16 22:58:08,136 - scope.name - ERROR - Kelapa Sawit
+2022-03-16 22:58:08,137 - scope.name - ERROR - Kelemak
+2022-03-16 22:58:08,139 - scope.name - ERROR - Kempas
+2022-03-16 22:58:08,141 - scope.name - ERROR - Kemumin
+2022-03-16 22:58:08,142 - scope.name - ERROR - Keningau
+2022-03-16 22:58:08,144 - scope.name - ERROR - Kepala Batas
+2022-03-16 22:58:08,145 - scope.name - ERROR - Kepayang
+2022-03-16 22:58:08,147 - scope.name - ERROR - Kerteh
+2022-03-16 22:58:08,149 - scope.name - ERROR - Kiamsam
+2022-03-16 22:58:08,150 - scope.name - ERROR - Kijal
+2022-03-16 22:58:08,152 - scope.name - ERROR - Klebang Kecil
+2022-03-16 22:58:08,153 - scope.name - ERROR - Kluang
+2022-03-16 22:58:08,154 - scope.name - ERROR - Kota
+2022-03-16 22:58:08,155 - scope.name - ERROR - Kota Belud
+2022-03-16 22:58:08,156 - scope.name - ERROR - Kota Damansara
+2022-03-16 22:58:08,157 - scope.name - ERROR - Kota Gelanggi
+2022-03-16 22:58:08,158 - scope.name - ERROR - Kota Kemuning
+2022-03-16 22:58:08,159 - scope.name - ERROR - Kota Kinabalu
+2022-03-16 22:58:08,160 - scope.name - ERROR - Kota Kinabangan
+2022-03-16 22:58:08,162 - scope.name - ERROR - Kota Masai
+2022-03-16 22:58:08,163 - scope.name - ERROR - Kota Tinggi
+2022-03-16 22:58:08,166 - scope.name - ERROR - Kuala Berang
+2022-03-16 22:58:08,167 - scope.name - ERROR - Kuala Besut
+2022-03-16 22:58:08,168 - scope.name - ERROR - Kuala Jempol
+2022-03-16 22:58:08,170 - scope.name - ERROR - Kuala Kerau
+2022-03-16 22:58:08,171 - scope.name - ERROR - Kuala Kurau
+2022-03-16 22:58:08,172 - scope.name - ERROR - Kuala Nerus
+2022-03-16 22:58:08,174 - scope.name - ERROR - Kuala Paka
+2022-03-16 22:58:08,174 - scope.name - ERROR - Kuala Penyu
+2022-03-16 22:58:08,175 - scope.name - ERROR - Kuala Perlis
+2022-03-16 22:58:08,177 - scope.name - ERROR - Kuala Selangor
+2022-03-16 22:58:08,178 - scope.name - ERROR - Kuala Sungai Baru
+2022-03-16 22:58:08,180 - scope.name - ERROR - Kuantan
+2022-03-16 22:58:08,182 - scope.name - ERROR - Kubang Semang
+2022-03-16 22:58:08,183 - scope.name - ERROR - Kuching
+2022-03-16 22:58:08,184 - scope.name - ERROR - Kuching Town
+2022-03-16 22:58:08,186 - scope.name - ERROR - Kudat Town
+2022-03-16 22:58:08,188 - scope.name - ERROR - Kulai
+2022-03-16 22:58:08,190 - scope.name - ERROR - Kulai South
+2022-03-16 22:58:08,191 - scope.name - ERROR - Kulim
+2022-03-16 22:58:08,193 - scope.name - ERROR - Kunak
+2022-03-16 22:58:08,194 - scope.name - ERROR - Kundang
+2022-03-16 22:58:08,196 - scope.name - ERROR - Kurong Anai
+2022-03-16 22:58:08,199 - scope.name - ERROR - Labu
+2022-03-16 22:58:08,200 - scope.name - ERROR - Labuan
+2022-03-16 22:58:08,202 - scope.name - ERROR - Lahad Datu Town
+2022-03-16 22:58:08,202 - scope.name - ERROR - Lawas
+2022-03-16 22:58:08,205 - scope.name - ERROR - Lendu
+2022-03-16 22:58:08,208 - scope.name - ERROR - Limbat
+2022-03-16 22:58:08,209 - scope.name - ERROR - Lingga
+2022-03-16 22:58:08,212 - scope.name - ERROR - Long Lama
+2022-03-16 22:58:08,213 - scope.name - ERROR - Lubok Banting
+2022-03-16 22:58:08,214 - scope.name - ERROR - Lubok Merbau
+2022-03-16 22:58:08,215 - scope.name - ERROR - Lumut
+2022-03-16 22:58:08,216 - scope.name - ERROR - Lundang
+2022-03-16 22:58:08,219 - scope.name - ERROR - Lutong
+2022-03-16 22:58:08,220 - scope.name - ERROR - Machang Town
+2022-03-16 22:58:08,222 - scope.name - ERROR - Manik Urai
+2022-03-16 22:58:08,224 - scope.name - ERROR - Mantin
+2022-03-16 22:58:08,226 - scope.name - ERROR - Matu
+2022-03-16 22:58:08,228 - scope.name - ERROR - Mengatal
+2022-03-16 22:58:08,230 - scope.name - ERROR - Menglembu
+2022-03-16 22:58:08,231 - scope.name - ERROR - Mentakab
+2022-03-16 22:58:08,233 - scope.name - ERROR - Merbuk
+2022-03-16 22:58:08,235 - scope.name - ERROR - Mergung
+2022-03-16 22:58:08,236 - scope.name - ERROR - Merlimau
+2022-03-16 22:58:08,237 - scope.name - ERROR - Mersing
+2022-03-16 22:58:08,238 - scope.name - ERROR - Meru
+2022-03-16 22:58:08,239 - scope.name - ERROR - Miri
+2022-03-16 22:58:08,241 - scope.name - ERROR - Mount Kiara
+2022-03-16 22:58:08,242 - scope.name - ERROR - Muar Town
+2022-03-16 22:58:08,243 - scope.name - ERROR - Mukah
+2022-03-16 22:58:08,246 - scope.name - ERROR - Nenasi
+2022-03-16 22:58:08,247 - scope.name - ERROR - Niah Suai
+2022-03-16 22:58:08,249 - scope.name - ERROR - Nusajaya Industrial
+2022-03-16 22:58:08,251 - scope.name - ERROR - PASIR MAS
+2022-03-16 22:58:08,253 - scope.name - ERROR - Padang Cina
+2022-03-16 22:58:08,258 - scope.name - ERROR - Pandan
+2022-03-16 22:58:08,259 - scope.name - ERROR - Pandan Indah
+2022-03-16 22:58:08,260 - scope.name - ERROR - Panji
+2022-03-16 22:58:08,262 - scope.name - ERROR - Pantu
+2022-03-16 22:58:08,264 - scope.name - ERROR - Parit Bakar
+2022-03-16 22:58:08,266 - scope.name - ERROR - Parit Raja
+2022-03-16 22:58:08,268 - scope.name - ERROR - Pasir Gudang
+2022-03-16 22:58:08,271 - scope.name - ERROR - Paya Terubung
+2022-03-16 22:58:08,273 - scope.name - ERROR - Pekan
+2022-03-16 22:58:08,275 - scope.name - ERROR - Pekan Nenas
+2022-03-16 22:58:08,276 - scope.name - ERROR - Pelabuhan Klang
+2022-03-16 22:58:08,277 - scope.name - ERROR - Pelentong
+2022-03-16 22:58:08,279 - scope.name - ERROR - Penampang
+2022-03-16 22:58:08,280 - scope.name - ERROR - Penampang Baru
+2022-03-16 22:58:08,282 - scope.name - ERROR - Pengkalan Hulu
+2022-03-16 22:58:08,283 - scope.name - ERROR - Pengkalan Kubor Town
+2022-03-16 22:58:08,284 - scope.name - ERROR - Pengkalan Kundur
+2022-03-16 22:58:08,287 - scope.name - ERROR - Peringat
+2022-03-16 22:58:08,288 - scope.name - ERROR - Pertang
+2022-03-16 22:58:08,289 - scope.name - ERROR - Petra Jaya
+2022-03-16 22:58:08,290 - scope.name - ERROR - Pinang Tunggal
+2022-03-16 22:58:08,292 - scope.name - ERROR - Pontian Besar
+2022-03-16 22:58:08,293 - scope.name - ERROR - Port Dickson
+2022-03-16 22:58:08,294 - scope.name - ERROR - Puchong
+2022-03-16 22:58:08,295 - scope.name - ERROR - Puchong Utama
+2022-03-16 22:58:08,297 - scope.name - ERROR - Pulai Chondong
+2022-03-16 22:58:08,299 - scope.name - ERROR - Pulai Indah
+2022-03-16 22:58:08,300 - scope.name - ERROR - Pulai Utama
+2022-03-16 22:58:08,302 - scope.name - ERROR - Pulau Indah
+2022-03-16 22:58:08,305 - scope.name - ERROR - Pulau Tikus
+2022-03-16 22:58:08,306 - scope.name - ERROR - Puncak Alam
+2022-03-16 22:58:08,307 - scope.name - ERROR - Puncak Jalil
+2022-03-16 22:58:08,309 - scope.name - ERROR - Pusa
+2022-03-16 22:58:08,311 - scope.name - ERROR - Putatan
+2022-03-16 22:58:08,313 - scope.name - ERROR - Putrajaya_1
+2022-03-16 22:58:08,314 - scope.name - ERROR - Putrajaya_2
+2022-03-16 22:58:08,315 - scope.name - ERROR - Putrajaya_3
+2022-03-16 22:58:08,316 - scope.name - ERROR - Ranau
+2022-03-16 22:58:08,318 - scope.name - ERROR - Rantau
+2022-03-16 22:58:08,320 - scope.name - ERROR - Rantau Panjang Town
+2022-03-16 22:58:08,321 - scope.name - ERROR - Rasah
+2022-03-16 22:58:08,323 - scope.name - ERROR - Rawang
+2022-03-16 22:58:08,324 - scope.name - ERROR - Relau
+2022-03-16 22:58:08,326 - scope.name - ERROR - Rimba Terjun
+2022-03-16 22:58:08,328 - scope.name - ERROR - Sabak
+2022-03-16 22:58:08,331 - scope.name - ERROR - Saiong
+2022-03-16 22:58:08,332 - scope.name - ERROR - Sala Besar
+2022-03-16 22:58:08,333 - scope.name - ERROR - Salak Selatan
+2022-03-16 22:58:08,334 - scope.name - ERROR - Samarahan
+2022-03-16 22:58:08,336 - scope.name - ERROR - Sandakan
+2022-03-16 22:58:08,337 - scope.name - ERROR - Saratok
+2022-03-16 22:58:08,339 - scope.name - ERROR - Sarikei
+2022-03-16 22:58:08,340 - scope.name - ERROR - Saujana Putra
+2022-03-16 22:58:08,342 - scope.name - ERROR - Seberang Perai
+2022-03-16 22:58:08,344 - scope.name - ERROR - Segambut
+2022-03-16 22:58:08,349 - scope.name - ERROR - Selayang
+2022-03-16 22:58:08,368 - scope.name - ERROR - Selinsing
+2022-03-16 22:58:08,370 - scope.name - ERROR - Semabok
+2022-03-16 22:58:08,372 - scope.name - ERROR - Semambu Industry
+2022-03-16 22:58:08,374 - scope.name - ERROR - Semenyih
+2022-03-16 22:58:08,375 - scope.name - ERROR - Semujok
+2022-03-16 22:58:08,377 - scope.name - ERROR - Senai
+2022-03-16 22:58:08,379 - scope.name - ERROR - Sentul
+2022-03-16 22:58:08,382 - scope.name - ERROR - Seputeh
+2022-03-16 22:58:08,383 - scope.name - ERROR - Serada
+2022-03-16 22:58:08,384 - scope.name - ERROR - Serdang
+2022-03-16 22:58:08,385 - scope.name - ERROR - Seremban 2
+2022-03-16 22:58:08,387 - scope.name - ERROR - Serendah
+2022-03-16 22:58:08,388 - scope.name - ERROR - Seri Kembangan
+2022-03-16 22:58:08,392 - scope.name - ERROR - Serting Hilir
+2022-03-16 22:58:08,394 - scope.name - ERROR - Setapak
+2022-03-16 22:58:08,395 - scope.name - ERROR - Shah Alam Seksyen 7
+2022-03-16 22:58:08,397 - scope.name - ERROR - Sibu
+2022-03-16 22:58:08,398 - scope.name - ERROR - Sibu Jaya
+2022-03-16 22:58:08,400 - scope.name - ERROR - Sidam Kanan
+2022-03-16 22:58:08,401 - scope.name - ERROR - Siliau
+2022-03-16 22:58:08,403 - scope.name - ERROR - Simpang Jeram
+2022-03-16 22:58:08,404 - scope.name - ERROR - Simpang Kanan
+2022-03-16 22:58:08,406 - scope.name - ERROR - Simpang Kiri
+2022-03-16 22:58:08,407 - scope.name - ERROR - Simpang Pulai
+2022-03-16 22:58:08,408 - scope.name - ERROR - Sipitang
+2022-03-16 22:58:08,410 - scope.name - ERROR - Slim
+2022-03-16 22:58:08,411 - scope.name - ERROR - Sok
+2022-03-16 22:58:08,413 - scope.name - ERROR - Sri Aman
+2022-03-16 22:58:08,414 - scope.name - ERROR - Sri Damansara
+2022-03-16 22:58:08,415 - scope.name - ERROR - Subang Hi-Tech
+2022-03-16 22:58:08,416 - scope.name - ERROR - Subang Jaya Industrial
+2022-03-16 22:58:08,418 - scope.name - ERROR - Subang Puchong
+2022-03-16 22:58:08,419 - scope.name - ERROR - Sungai Bakap
+2022-03-16 22:58:08,421 - scope.name - ERROR - Sungai Buluh
+2022-03-16 22:58:08,421 - scope.name - ERROR - Sungai Chua
+2022-03-16 22:58:08,423 - scope.name - ERROR - Sungai Kepasing
+2022-03-16 22:58:08,424 - scope.name - ERROR - Sungai Kuantan
+2022-03-16 22:58:08,425 - scope.name - ERROR - Sungai Limau
+2022-03-16 22:58:08,427 - scope.name - ERROR - Sungai Panching
+2022-03-16 22:58:08,427 - scope.name - ERROR - Sungai Pelek
+2022-03-16 22:58:08,428 - scope.name - ERROR - Sungai Petani
+2022-03-16 22:58:08,429 - scope.name - ERROR - Sungai Raya
+2022-03-16 22:58:08,432 - scope.name - ERROR - Sungai Sepadak
+2022-03-16 22:58:08,433 - scope.name - ERROR - Sungai Stutong
+2022-03-16 22:58:08,435 - scope.name - ERROR - Sungai Udang
+2022-03-16 22:58:08,437 - scope.name - ERROR - Sungai dua
+2022-03-16 22:58:08,439 - scope.name - ERROR - Sura
+2022-03-16 22:58:08,439 - scope.name - ERROR - TTDI Jaya
+2022-03-16 22:58:08,440 - scope.name - ERROR - Taboh Naning
+2022-03-16 22:58:08,441 - scope.name - ERROR - Tabuan Jaya
+2022-03-16 22:58:08,442 - scope.name - ERROR - Taman Melawati
+2022-03-16 22:58:08,443 - scope.name - ERROR - Taman Perling
+2022-03-16 22:58:08,445 - scope.name - ERROR - Tampin Town
+2022-03-16 22:58:08,446 - scope.name - ERROR - Tampoi
+2022-03-16 22:58:08,447 - scope.name - ERROR - Tanah Rata
+2022-03-16 22:58:08,448 - scope.name - ERROR - Tangkak
+2022-03-16 22:58:08,449 - scope.name - ERROR - Tanjong Aru
+2022-03-16 22:58:08,450 - scope.name - ERROR - Tanjong Minyak
+2022-03-16 22:58:08,451 - scope.name - ERROR - Tanjong Tokong
+2022-03-16 22:58:08,452 - scope.name - ERROR - Tanjung Dua Belas
+2022-03-16 22:58:08,453 - scope.name - ERROR - Tanjung Keling
+2022-03-16 22:58:08,455 - scope.name - ERROR - Tanjung Langsat
+2022-03-16 22:58:08,457 - scope.name - ERROR - Tanjung Rambutan
+2022-03-16 22:58:08,459 - scope.name - ERROR - Tapah
+2022-03-16 22:58:08,460 - scope.name - ERROR - Tasek Gelugor
+2022-03-16 22:58:08,462 - scope.name - ERROR - Tawau Town
+2022-03-16 22:58:08,464 - scope.name - ERROR - Teja
+2022-03-16 22:58:08,465 - scope.name - ERROR - Tekah
+2022-03-16 22:58:08,466 - scope.name - ERROR - Telipok
+2022-03-16 22:58:08,467 - scope.name - ERROR - Telok Mas
+2022-03-16 22:58:08,468 - scope.name - ERROR - Telui Kanan
+2022-03-16 22:58:08,469 - scope.name - ERROR - Teluk Intan
+2022-03-16 22:58:08,472 - scope.name - ERROR - Teluk Panglima Garang
+2022-03-16 22:58:08,473 - scope.name - ERROR - Teluk Sengat
+2022-03-16 22:58:08,474 - scope.name - ERROR - Temangan
+2022-03-16 22:58:08,476 - scope.name - ERROR - Tembeling
+2022-03-16 22:58:08,477 - scope.name - ERROR - Temerloh
+2022-03-16 22:58:08,481 - scope.name - ERROR - Titiwangsa
+2022-03-16 22:58:08,484 - scope.name - ERROR - Tualang
+2022-03-16 22:58:08,485 - scope.name - ERROR - Tuaran
+2022-03-16 22:58:08,486 - scope.name - ERROR - Tuk Jamal
+2022-03-16 22:58:08,488 - scope.name - ERROR - Tunjang
+2022-03-16 22:58:08,489 - scope.name - ERROR - Tupai
+2022-03-16 22:58:08,490 - scope.name - ERROR - U8 Shah Alam
+2022-03-16 22:58:08,490 - scope.name - ERROR - Ukay Perdana
+2022-03-16 22:58:08,492 - scope.name - ERROR - Ulu Kusial
+2022-03-16 22:58:08,493 - scope.name - ERROR - Ulu Langat
+2022-03-16 22:58:08,494 - scope.name - ERROR - Ulu Tiram
+2022-03-16 22:58:08,496 - scope.name - ERROR - Utan Aji
+2022-03-16 22:58:08,497 - scope.name - ERROR - Wakaf Bharu
+2022-03-16 22:58:08,499 - scope.name - ERROR - Yong Peng
+2022-03-16 23:14:52,981 - root - ERROR - FAIL CLUSTER:
+2022-03-16 23:14:52,983 - root - ERROR - Air Hangat
+2022-03-16 23:14:52,984 - root - ERROR - Air Hitam Town
+2022-03-16 23:14:52,985 - root - ERROR - Air Putih
+2022-03-16 23:14:52,986 - root - ERROR - Alur Merah
+2022-03-16 23:14:52,987 - root - ERROR - Ampang
+2022-03-16 23:14:52,988 - root - ERROR - Ampang Jaya
+2022-03-16 23:14:52,989 - root - ERROR - Ampang Pecah
+2022-03-16 23:14:52,990 - root - ERROR - Ampangan
+2022-03-16 23:14:52,991 - root - ERROR - Api-api
+2022-03-16 23:14:52,992 - root - ERROR - Arau
+2022-03-16 23:14:52,995 - root - ERROR - Ayer Panas
+2022-03-16 23:14:52,996 - root - ERROR - Ayer Tawar
+2022-03-16 23:14:52,997 - root - ERROR - Bagan Serai
+2022-03-16 23:14:52,999 - root - ERROR - Bakai
+2022-03-16 23:14:53,002 - root - ERROR - Balakong
+2022-03-16 23:14:53,003 - root - ERROR - Baling
+2022-03-16 23:14:53,004 - root - ERROR - Balok-Beserah
+2022-03-16 23:14:53,006 - root - ERROR - Bandar Baru Sri Petaling
+2022-03-16 23:14:53,007 - root - ERROR - Bandar Baru Sungai Buloh
+2022-03-16 23:14:53,008 - root - ERROR - Bandar Bukit Raja
+2022-03-16 23:14:53,009 - root - ERROR - Bandar Indera Mahkota
+2022-03-16 23:14:53,010 - root - ERROR - Bandar Johor Bahru
+2022-03-16 23:14:53,010 - root - ERROR - Bandar Kajang
+2022-03-16 23:14:53,011 - root - ERROR - Bandar Kemaman
+2022-03-16 23:14:53,012 - root - ERROR - Bandar Kinrara
+2022-03-16 23:14:53,013 - root - ERROR - Bandar Klang
+2022-03-16 23:14:53,015 - root - ERROR - Bandar Melaka
+2022-03-16 23:14:53,016 - root - ERROR - Bandar Muadzam Shah
+2022-03-16 23:14:53,018 - root - ERROR - Bandar Petaling Jaya
+2022-03-16 23:14:53,019 - root - ERROR - Bandar Putra
+2022-03-16 23:14:53,020 - root - ERROR - Bandar Seremban
+2022-03-16 23:14:53,021 - root - ERROR - Bandar Seri Putra Bangi
+2022-03-16 23:14:53,022 - root - ERROR - Bandar Sg Petani
+2022-03-16 23:14:53,023 - root - ERROR - Bangi
+2022-03-16 23:14:53,025 - root - ERROR - Bangsar South
+2022-03-16 23:14:53,026 - root - ERROR - Batang Berjuntai
+2022-03-16 23:14:53,028 - root - ERROR - Batu
+2022-03-16 23:14:53,029 - root - ERROR - Batu Berendam
+2022-03-16 23:14:53,030 - root - ERROR - Batu Caves
+2022-03-16 23:14:53,032 - root - ERROR - Batu Kawa
+2022-03-16 23:14:53,033 - root - ERROR - Batu Kitang
+2022-03-16 23:14:53,034 - root - ERROR - Batu Manikar
+2022-03-16 23:14:53,035 - root - ERROR - Batu Maung
+2022-03-16 23:14:53,036 - root - ERROR - Batu Pahat
+2022-03-16 23:14:53,037 - root - ERROR - Batu Rakit
+2022-03-16 23:14:53,038 - root - ERROR - Batu Tiga
+2022-03-16 23:14:53,039 - root - ERROR - Bau
+2022-03-16 23:14:53,040 - root - ERROR - Bayan Lepas
+2022-03-16 23:14:53,041 - root - ERROR - Beaufort
+2022-03-16 23:14:53,043 - root - ERROR - Belanja
+2022-03-16 23:14:53,046 - root - ERROR - Beranang
+2022-03-16 23:14:53,047 - root - ERROR - Beratok
+2022-03-16 23:14:53,049 - root - ERROR - Bidor
+2022-03-16 23:14:53,051 - root - ERROR - Bintulu Town
+2022-03-16 23:14:53,053 - root - ERROR - Brickfield Maluri
+2022-03-16 23:14:53,055 - root - ERROR - Bukit Awang
+2022-03-16 23:14:53,056 - root - ERROR - Bukit Baru
+2022-03-16 23:14:53,058 - root - ERROR - Bukit Beruntung
+2022-03-16 23:14:53,059 - root - ERROR - Bukit Bintang
+2022-03-16 23:14:53,060 - root - ERROR - Bukit Gaung
+2022-03-16 23:14:53,062 - root - ERROR - Bukit Meriam
+2022-03-16 23:14:53,063 - root - ERROR - Bukit Mertajam
+2022-03-16 23:14:53,064 - root - ERROR - Bukit Pinang
+2022-03-16 23:14:53,065 - root - ERROR - Bukit Raja
+2022-03-16 23:14:53,066 - root - ERROR - Bukit Saga
+2022-03-16 23:14:53,068 - root - ERROR - Bukit Tadun
+2022-03-16 23:14:53,070 - root - ERROR - Bukit Tengah
+2022-03-16 23:14:53,071 - root - ERROR - Bukit Tinggi Klang
+2022-03-16 23:14:53,072 - root - ERROR - Bunut Susu
+2022-03-16 23:14:53,074 - root - ERROR - Cabang Tiga
+2022-03-16 23:14:53,075 - root - ERROR - Chengkau
+2022-03-16 23:14:53,076 - root - ERROR - Chepor
+2022-03-16 23:14:53,077 - root - ERROR - Cheras
+2022-03-16 23:14:53,077 - root - ERROR - Cheras Baru
+2022-03-16 23:14:53,078 - root - ERROR - Cherating
+2022-03-16 23:14:53,080 - root - ERROR - Chini
+2022-03-16 23:14:53,082 - root - ERROR - Cukai
+2022-03-16 23:14:53,083 - root - ERROR - Cyberjaya
+2022-03-16 23:14:53,085 - root - ERROR - Damansara Jaya
+2022-03-16 23:14:53,085 - root - ERROR - Danga Bay
+2022-03-16 23:14:53,087 - root - ERROR - Dataran Sunway
+2022-03-16 23:14:53,088 - root - ERROR - Dengkil
+2022-03-16 23:14:53,089 - root - ERROR - Desa Melawati
+2022-03-16 23:14:53,090 - root - ERROR - Desa Petaling Sg Besi
+2022-03-16 23:14:53,090 - root - ERROR - Desa Tebrau
+2022-03-16 23:14:53,091 - root - ERROR - Desaru
+2022-03-16 23:14:53,098 - root - ERROR - Felda Pasak
+2022-03-16 23:14:53,101 - root - ERROR - Gambang
+2022-03-16 23:14:53,102 - root - ERROR - Gelang Patah
+2022-03-16 23:14:53,103 - root - ERROR - Gemas
+2022-03-16 23:14:53,105 - root - ERROR - Gemereh
+2022-03-16 23:14:53,106 - root - ERROR - Georgetown
+2022-03-16 23:14:53,108 - root - ERROR - Grisek
+2022-03-16 23:14:53,110 - root - ERROR - Gum Gum
+2022-03-16 23:14:53,113 - root - ERROR - Gurun
+2022-03-16 23:14:53,114 - root - ERROR - Hujung Permatang
+2022-03-16 23:14:53,115 - root - ERROR - Hulu Bernam
+2022-03-16 23:14:53,117 - root - ERROR - Hulu Telemung
+2022-03-16 23:14:53,118 - root - ERROR - Hulu Yam
+2022-03-16 23:14:53,120 - root - ERROR - Igan
+2022-03-16 23:14:53,121 - root - ERROR - Ipoh
+2022-03-16 23:14:53,123 - root - ERROR - Jalan Kebun
+2022-03-16 23:14:53,124 - root - ERROR - Jalan Klang Lama
+2022-03-16 23:14:53,126 - root - ERROR - Jaya Gading
+2022-03-16 23:14:53,128 - root - ERROR - Jeli
+2022-03-16 23:14:53,129 - root - ERROR - Jelutong
+2022-03-16 23:14:53,132 - root - ERROR - Jeram
+2022-03-16 23:14:53,135 - root - ERROR - Jimah
+2022-03-16 23:14:53,136 - root - ERROR - Jinjang
+2022-03-16 23:14:53,138 - root - ERROR - Jitra
+2022-03-16 23:14:53,139 - root - ERROR - Johol
+2022-03-16 23:14:53,140 - root - ERROR - Johor Jaya
+2022-03-16 23:14:53,142 - root - ERROR - Juru
+2022-03-16 23:14:53,144 - root - ERROR - Kadok
+2022-03-16 23:14:53,145 - root - ERROR - Kampar
+2022-03-16 23:14:53,148 - root - ERROR - Kampung Dato Harun
+2022-03-16 23:14:53,149 - root - ERROR - Kampung Mandahan
+2022-03-16 23:14:53,151 - root - ERROR - Kampung Selimbangun
+2022-03-16 23:14:53,152 - root - ERROR - Kampung Telaga Air
+2022-03-16 23:14:53,153 - root - ERROR - Kamunting
+2022-03-16 23:14:53,155 - root - ERROR - Kanarut
+2022-03-16 23:14:53,156 - root - ERROR - Kangar
+2022-03-16 23:14:53,157 - root - ERROR - Kapar
+2022-03-16 23:14:53,158 - root - ERROR - Karak
+2022-03-16 23:14:53,159 - root - ERROR - Karak Ulu Yam
+2022-03-16 23:14:53,160 - root - ERROR - Kayau
+2022-03-16 23:14:53,162 - root - ERROR - Kelana Jaya
+2022-03-16 23:14:53,163 - root - ERROR - Kelanang
+2022-03-16 23:14:53,164 - root - ERROR - Kelapa Sawit
+2022-03-16 23:14:53,165 - root - ERROR - Kelemak
+2022-03-16 23:14:53,166 - root - ERROR - Kempas
+2022-03-16 23:14:53,167 - root - ERROR - Kemumin
+2022-03-16 23:14:53,168 - root - ERROR - Keningau
+2022-03-16 23:14:53,169 - root - ERROR - Kepala Batas
+2022-03-16 23:14:53,170 - root - ERROR - Kepayang
+2022-03-16 23:14:53,171 - root - ERROR - Kerteh
+2022-03-16 23:14:53,172 - root - ERROR - Kiamsam
+2022-03-16 23:14:53,173 - root - ERROR - Kijal
+2022-03-16 23:14:53,175 - root - ERROR - Klebang Kecil
+2022-03-16 23:14:53,176 - root - ERROR - Kluang
+2022-03-16 23:14:53,177 - root - ERROR - Kota
+2022-03-16 23:14:53,178 - root - ERROR - Kota Belud
+2022-03-16 23:14:53,179 - root - ERROR - Kota Damansara
+2022-03-16 23:14:53,180 - root - ERROR - Kota Gelanggi
+2022-03-16 23:14:53,181 - root - ERROR - Kota Kemuning
+2022-03-16 23:14:53,182 - root - ERROR - Kota Kinabalu
+2022-03-16 23:14:53,183 - root - ERROR - Kota Kinabangan
+2022-03-16 23:14:53,184 - root - ERROR - Kota Masai
+2022-03-16 23:14:53,185 - root - ERROR - Kota Tinggi
+2022-03-16 23:14:53,190 - root - ERROR - Kuala Berang
+2022-03-16 23:14:53,190 - root - ERROR - Kuala Besut
+2022-03-16 23:14:53,192 - root - ERROR - Kuala Jempol
+2022-03-16 23:14:53,193 - root - ERROR - Kuala Kerau
+2022-03-16 23:14:53,195 - root - ERROR - Kuala Kurau
+2022-03-16 23:14:53,197 - root - ERROR - Kuala Nerus
+2022-03-16 23:14:53,198 - root - ERROR - Kuala Paka
+2022-03-16 23:14:53,199 - root - ERROR - Kuala Penyu
+2022-03-16 23:14:53,200 - root - ERROR - Kuala Perlis
+2022-03-16 23:14:53,203 - root - ERROR - Kuala Selangor
+2022-03-16 23:14:53,204 - root - ERROR - Kuala Sungai Baru
+2022-03-16 23:14:53,205 - root - ERROR - Kuantan
+2022-03-16 23:14:53,208 - root - ERROR - Kubang Semang
+2022-03-16 23:14:53,208 - root - ERROR - Kuching
+2022-03-16 23:14:53,209 - root - ERROR - Kuching Town
+2022-03-16 23:14:53,210 - root - ERROR - Kudat Town
+2022-03-16 23:14:53,211 - root - ERROR - Kulai
+2022-03-16 23:14:53,211 - root - ERROR - Kulai South
+2022-03-16 23:14:53,212 - root - ERROR - Kulim
+2022-03-16 23:14:53,214 - root - ERROR - Kunak
+2022-03-16 23:14:53,215 - root - ERROR - Kundang
+2022-03-16 23:14:53,216 - root - ERROR - Kurong Anai
+2022-03-16 23:14:53,218 - root - ERROR - Labu
+2022-03-16 23:14:53,219 - root - ERROR - Labuan
+2022-03-16 23:14:53,221 - root - ERROR - Lahad Datu Town
+2022-03-16 23:14:53,221 - root - ERROR - Lawas
+2022-03-16 23:14:53,223 - root - ERROR - Lendu
+2022-03-16 23:14:53,226 - root - ERROR - Limbat
+2022-03-16 23:14:53,228 - root - ERROR - Lingga
+2022-03-16 23:14:53,230 - root - ERROR - Long Lama
+2022-03-16 23:14:53,231 - root - ERROR - Lubok Banting
+2022-03-16 23:14:53,232 - root - ERROR - Lubok Merbau
+2022-03-16 23:14:53,233 - root - ERROR - Lumut
+2022-03-16 23:14:53,234 - root - ERROR - Lundang
+2022-03-16 23:14:53,236 - root - ERROR - Lutong
+2022-03-16 23:14:53,236 - root - ERROR - Machang Town
+2022-03-16 23:14:53,238 - root - ERROR - Manik Urai
+2022-03-16 23:14:53,240 - root - ERROR - Mantin
+2022-03-16 23:14:53,242 - root - ERROR - Matu
+2022-03-16 23:14:53,244 - root - ERROR - Mengatal
+2022-03-16 23:14:53,245 - root - ERROR - Menglembu
+2022-03-16 23:14:53,246 - root - ERROR - Mentakab
+2022-03-16 23:14:53,248 - root - ERROR - Merbuk
+2022-03-16 23:14:53,249 - root - ERROR - Mergung
+2022-03-16 23:14:53,250 - root - ERROR - Merlimau
+2022-03-16 23:14:53,251 - root - ERROR - Mersing
+2022-03-16 23:14:53,251 - root - ERROR - Meru
+2022-03-16 23:14:53,253 - root - ERROR - Miri
+2022-03-16 23:14:53,254 - root - ERROR - Mount Kiara
+2022-03-16 23:14:53,255 - root - ERROR - Muar Town
+2022-03-16 23:14:53,257 - root - ERROR - Mukah
+2022-03-16 23:14:53,259 - root - ERROR - Nenasi
+2022-03-16 23:14:53,260 - root - ERROR - Niah Suai
+2022-03-16 23:14:53,262 - root - ERROR - Nusajaya Industrial
+2022-03-16 23:14:53,264 - root - ERROR - PASIR MAS
+2022-03-16 23:14:53,265 - root - ERROR - Padang Cina
+2022-03-16 23:14:53,270 - root - ERROR - Pandan
+2022-03-16 23:14:53,270 - root - ERROR - Pandan Indah
+2022-03-16 23:14:53,271 - root - ERROR - Panji
+2022-03-16 23:14:53,273 - root - ERROR - Pantu
+2022-03-16 23:14:53,274 - root - ERROR - Parit Bakar
+2022-03-16 23:14:53,275 - root - ERROR - Parit Raja
+2022-03-16 23:14:53,277 - root - ERROR - Pasir Gudang
+2022-03-16 23:14:53,279 - root - ERROR - Paya Terubung
+2022-03-16 23:14:53,281 - root - ERROR - Pekan
+2022-03-16 23:14:53,282 - root - ERROR - Pekan Nenas
+2022-03-16 23:14:53,283 - root - ERROR - Pelabuhan Klang
+2022-03-16 23:14:53,285 - root - ERROR - Pelentong
+2022-03-16 23:14:53,286 - root - ERROR - Penampang
+2022-03-16 23:14:53,286 - root - ERROR - Penampang Baru
+2022-03-16 23:14:53,289 - root - ERROR - Pengkalan Hulu
+2022-03-16 23:14:53,290 - root - ERROR - Pengkalan Kubor Town
+2022-03-16 23:14:53,290 - root - ERROR - Pengkalan Kundur
+2022-03-16 23:14:53,292 - root - ERROR - Peringat
+2022-03-16 23:14:53,293 - root - ERROR - Pertang
+2022-03-16 23:14:53,294 - root - ERROR - Petra Jaya
+2022-03-16 23:14:53,296 - root - ERROR - Pinang Tunggal
+2022-03-16 23:14:53,298 - root - ERROR - Pontian Besar
+2022-03-16 23:14:53,299 - root - ERROR - Port Dickson
+2022-03-16 23:14:53,300 - root - ERROR - Puchong
+2022-03-16 23:14:53,301 - root - ERROR - Puchong Utama
+2022-03-16 23:14:53,302 - root - ERROR - Pulai Chondong
+2022-03-16 23:14:53,303 - root - ERROR - Pulai Indah
+2022-03-16 23:14:53,303 - root - ERROR - Pulai Utama
+2022-03-16 23:14:53,305 - root - ERROR - Pulau Indah
+2022-03-16 23:14:53,308 - root - ERROR - Pulau Tikus
+2022-03-16 23:14:53,310 - root - ERROR - Puncak Alam
+2022-03-16 23:14:53,311 - root - ERROR - Puncak Jalil
+2022-03-16 23:14:53,312 - root - ERROR - Pusa
+2022-03-16 23:14:53,314 - root - ERROR - Putatan
+2022-03-16 23:14:53,314 - root - ERROR - Putrajaya_1
+2022-03-16 23:14:53,315 - root - ERROR - Putrajaya_2
+2022-03-16 23:14:53,316 - root - ERROR - Putrajaya_3
+2022-03-16 23:14:53,317 - root - ERROR - Ranau
+2022-03-16 23:14:53,318 - root - ERROR - Rantau
+2022-03-16 23:14:53,320 - root - ERROR - Rantau Panjang Town
+2022-03-16 23:14:53,321 - root - ERROR - Rasah
+2022-03-16 23:14:53,323 - root - ERROR - Rawang
+2022-03-16 23:14:53,324 - root - ERROR - Relau
+2022-03-16 23:14:53,325 - root - ERROR - Rimba Terjun
+2022-03-16 23:14:53,327 - root - ERROR - Sabak
+2022-03-16 23:14:53,329 - root - ERROR - Saiong
+2022-03-16 23:14:53,330 - root - ERROR - Sala Besar
+2022-03-16 23:14:53,331 - root - ERROR - Salak Selatan
+2022-03-16 23:14:53,332 - root - ERROR - Samarahan
+2022-03-16 23:14:53,333 - root - ERROR - Sandakan
+2022-03-16 23:14:53,335 - root - ERROR - Saratok
+2022-03-16 23:14:53,335 - root - ERROR - Sarikei
+2022-03-16 23:14:53,336 - root - ERROR - Saujana Putra
+2022-03-16 23:14:53,337 - root - ERROR - Seberang Perai
+2022-03-16 23:14:53,339 - root - ERROR - Segambut
+2022-03-16 23:14:53,343 - root - ERROR - Selayang
+2022-03-16 23:14:53,343 - root - ERROR - Selinsing
+2022-03-16 23:14:53,344 - root - ERROR - Semabok
+2022-03-16 23:14:53,346 - root - ERROR - Semambu Industry
+2022-03-16 23:14:53,347 - root - ERROR - Semenyih
+2022-03-16 23:14:53,349 - root - ERROR - Semujok
+2022-03-16 23:14:53,350 - root - ERROR - Senai
+2022-03-16 23:14:53,352 - root - ERROR - Sentul
+2022-03-16 23:14:53,353 - root - ERROR - Seputeh
+2022-03-16 23:14:53,354 - root - ERROR - Serada
+2022-03-16 23:14:53,355 - root - ERROR - Serdang
+2022-03-16 23:14:53,356 - root - ERROR - Seremban 2
+2022-03-16 23:14:53,357 - root - ERROR - Serendah
+2022-03-16 23:14:53,357 - root - ERROR - Seri Kembangan
+2022-03-16 23:14:53,360 - root - ERROR - Serting Hilir
+2022-03-16 23:14:53,361 - root - ERROR - Setapak
+2022-03-16 23:14:53,363 - root - ERROR - Shah Alam Seksyen 7
+2022-03-16 23:14:53,364 - root - ERROR - Sibu
+2022-03-16 23:14:53,365 - root - ERROR - Sibu Jaya
+2022-03-16 23:14:53,366 - root - ERROR - Sidam Kanan
+2022-03-16 23:14:53,368 - root - ERROR - Siliau
+2022-03-16 23:14:53,369 - root - ERROR - Simpang Jeram
+2022-03-16 23:14:53,370 - root - ERROR - Simpang Kanan
+2022-03-16 23:14:53,371 - root - ERROR - Simpang Kiri
+2022-03-16 23:14:53,372 - root - ERROR - Simpang Pulai
+2022-03-16 23:14:53,374 - root - ERROR - Sipitang
+2022-03-16 23:14:53,376 - root - ERROR - Slim
+2022-03-16 23:14:53,378 - root - ERROR - Sok
+2022-03-16 23:14:53,380 - root - ERROR - Sri Aman
+2022-03-16 23:14:53,381 - root - ERROR - Sri Damansara
+2022-03-16 23:14:53,383 - root - ERROR - Subang Hi-Tech
+2022-03-16 23:14:53,384 - root - ERROR - Subang Jaya Industrial
+2022-03-16 23:14:53,385 - root - ERROR - Subang Puchong
+2022-03-16 23:14:53,386 - root - ERROR - Sungai Bakap
+2022-03-16 23:14:53,387 - root - ERROR - Sungai Buluh
+2022-03-16 23:14:53,388 - root - ERROR - Sungai Chua
+2022-03-16 23:14:53,390 - root - ERROR - Sungai Kepasing
+2022-03-16 23:14:53,391 - root - ERROR - Sungai Kuantan
+2022-03-16 23:14:53,393 - root - ERROR - Sungai Limau
+2022-03-16 23:14:53,394 - root - ERROR - Sungai Panching
+2022-03-16 23:14:53,395 - root - ERROR - Sungai Pelek
+2022-03-16 23:14:53,396 - root - ERROR - Sungai Petani
+2022-03-16 23:14:53,397 - root - ERROR - Sungai Raya
+2022-03-16 23:14:53,399 - root - ERROR - Sungai Sepadak
+2022-03-16 23:14:53,400 - root - ERROR - Sungai Stutong
+2022-03-16 23:14:53,402 - root - ERROR - Sungai Udang
+2022-03-16 23:14:53,404 - root - ERROR - Sungai dua
+2022-03-16 23:14:53,406 - root - ERROR - Sura
+2022-03-16 23:14:53,407 - root - ERROR - TTDI Jaya
+2022-03-16 23:14:53,407 - root - ERROR - Taboh Naning
+2022-03-16 23:14:53,408 - root - ERROR - Tabuan Jaya
+2022-03-16 23:14:53,409 - root - ERROR - Taman Melawati
+2022-03-16 23:14:53,410 - root - ERROR - Taman Perling
+2022-03-16 23:14:53,411 - root - ERROR - Tampin Town
+2022-03-16 23:14:53,412 - root - ERROR - Tampoi
+2022-03-16 23:14:53,413 - root - ERROR - Tanah Rata
+2022-03-16 23:14:53,414 - root - ERROR - Tangkak
+2022-03-16 23:14:53,415 - root - ERROR - Tanjong Aru
+2022-03-16 23:14:53,416 - root - ERROR - Tanjong Minyak
+2022-03-16 23:14:53,417 - root - ERROR - Tanjong Tokong
+2022-03-16 23:14:53,419 - root - ERROR - Tanjung Dua Belas
+2022-03-16 23:14:53,420 - root - ERROR - Tanjung Keling
+2022-03-16 23:14:53,422 - root - ERROR - Tanjung Langsat
+2022-03-16 23:14:53,424 - root - ERROR - Tanjung Rambutan
+2022-03-16 23:14:53,426 - root - ERROR - Tapah
+2022-03-16 23:14:53,426 - root - ERROR - Tasek Gelugor
+2022-03-16 23:14:53,430 - root - ERROR - Tawau Town
+2022-03-16 23:14:53,431 - root - ERROR - Teja
+2022-03-16 23:14:53,433 - root - ERROR - Tekah
+2022-03-16 23:14:53,434 - root - ERROR - Telipok
+2022-03-16 23:14:53,436 - root - ERROR - Telok Mas
+2022-03-16 23:14:53,437 - root - ERROR - Telui Kanan
+2022-03-16 23:14:53,438 - root - ERROR - Teluk Intan
+2022-03-16 23:14:53,440 - root - ERROR - Teluk Panglima Garang
+2022-03-16 23:14:53,442 - root - ERROR - Teluk Sengat
+2022-03-16 23:14:53,444 - root - ERROR - Temangan
+2022-03-16 23:14:53,446 - root - ERROR - Tembeling
+2022-03-16 23:14:53,447 - root - ERROR - Temerloh
+2022-03-16 23:14:53,453 - root - ERROR - Titiwangsa
+2022-03-16 23:14:53,456 - root - ERROR - Tualang
+2022-03-16 23:14:53,457 - root - ERROR - Tuaran
+2022-03-16 23:14:53,458 - root - ERROR - Tuk Jamal
+2022-03-16 23:14:53,459 - root - ERROR - Tunjang
+2022-03-16 23:14:53,460 - root - ERROR - Tupai
+2022-03-16 23:14:53,461 - root - ERROR - U8 Shah Alam
+2022-03-16 23:14:53,462 - root - ERROR - Ukay Perdana
+2022-03-16 23:14:53,463 - root - ERROR - Ulu Kusial
+2022-03-16 23:14:53,464 - root - ERROR - Ulu Langat
+2022-03-16 23:14:53,466 - root - ERROR - Ulu Tiram
+2022-03-16 23:14:53,468 - root - ERROR - Utan Aji
+2022-03-16 23:14:53,469 - root - ERROR - Wakaf Bharu
+2022-03-16 23:14:53,471 - root - ERROR - Yong Peng
+2022-03-16 23:14:53,471 - root - ERROR - 413 subtests success, 352 subtests fail.
