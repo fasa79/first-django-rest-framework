@@ -25,4 +25,20 @@ class SiteOverallSerializer(serializers.Serializer):
     latitude = serializers.CharField(source='sitelat', read_only=True)
     longitude = serializers.CharField(source='sitelong', read_only=True)
 
+class TopComplainSitesSerializer(serializers.Serializer):
+    site_id = serializers.CharField(source='siteid', read_only=True)
+    total_cases_site_id = serializers.IntegerField(read_only=True)
+    cluster = serializers.CharField(source='clusteraddress', read_only=True)
+    total_customer = serializers.IntegerField(read_only=True)
+    total_case = serializers.IntegerField(read_only=True)
+    longitude_latitude = serializers.SerializerMethodField()
 
+    def get_longitude_latitude(self, obj):
+        return str(obj['sitelong']) + "," + str(obj['sitelat'])
+
+class TotalCaseYearSerializer(serializers.Serializer):
+    year = serializers.IntegerField(read_only=True)
+    total_cases = serializers.IntegerField(read_only=True)
+
+class TotalComplaintSourceSerializer(serializers.Serializer):
+    source = serializers.SerializerMethodField()
