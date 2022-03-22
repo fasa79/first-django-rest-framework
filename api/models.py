@@ -54,5 +54,3 @@ class Thd(models.Model):
     sitelong = models.FloatField(db_column='SiteLong', blank=True, null=True)  # Field name made lowercase.
     faultylocationlatlong = models.CharField(db_column='FaultyLocationLatlong', max_length=255, blank=True, null=True)  # Field name made lowercase.
 
-    class Meta:
-        db_table = 'thd_din'

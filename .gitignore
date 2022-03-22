@@ -2,3 +2,4 @@ Pipfile
 Pipfile.lock
 THD_Din.xlsx
 api.txt
+api/fixtures/*

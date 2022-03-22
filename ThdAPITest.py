@@ -66,9 +66,9 @@ class TestClusterOverall(unittest.TestCase):
         print('Start Testing...')
         
         for cluster in self.cluster_data_T:
-                for index in list(self.cluster_data_T.index):
-                    with self.subTest(item=cluster+ " : " +index):
-                        self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])            
+            for index in list(self.cluster_data_T.index):
+                with self.subTest(item=cluster+ " : " +index):
+                    self.assertEqual(self.cluster_data_T[cluster].loc[index], self.cluster_test_T[cluster].loc[index])            
         
     def tearDown(self):
         self.thd_table.drop(connection)
@@ -189,6 +189,7 @@ class TestCasesOverall(unittest.TestCase):
     def testSumCases(self):
         sum_test = thd_test['total_cases_overall']
         sum_data = self.total_cases.sum().CaseNumber
+        self.assertEqual(sum_data, sum_test)
 
     def tearDown(self):
         self.thd_table.drop(connection)

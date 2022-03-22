@@ -40,5 +40,3 @@ class TotalCaseYearSerializer(serializers.Serializer):
     year = serializers.IntegerField(read_only=True)
     total_cases = serializers.IntegerField(read_only=True)
 
-class TotalComplaintSourceSerializer(serializers.Serializer):
-    source = serializers.SerializerMethodField()
